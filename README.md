@@ -1,7 +1,7 @@
 # mendelprob.pl
 A probabilistic logic tool for assisting with Mendelian inheritance analyzes
 
-## Requirements
+## Requirements
 
 ProbLog: [https://github.com/ML-KULeuven/problog/](https://github.com/ML-KULeuven/problog/)
 
